@@ -1,0 +1,9 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3, 430px);
+    gap: 5px;
+}
+.visited{
+    background-color: purple;
+    color: white;
+}
